@@ -417,6 +417,7 @@
       "description": "Groundbreaking project focused on sustainable technology solutions.",
       "createdDate": "2023-06-15T09:30:00Z",
       "dueDate": "2024-07-31T23:59:59Z",
+      "status": "Completed",
       "comments": [
         {
           "id": "66837f29-604c-495a-9387-d9492526fe89",

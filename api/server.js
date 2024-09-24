@@ -11,7 +11,7 @@ const data = fs.readFileSync(filePath, "utf-8");
 const db = JSON.parse(data);
 const router = jsonServer.router(db)
 
-// Comment out to allow write operations
+// Comment out to allow write operation
 // const router = jsonServer.router('db.json')
 
 const middlewares = jsonServer.defaults()
